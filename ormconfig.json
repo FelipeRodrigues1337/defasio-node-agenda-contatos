@@ -1,17 +1,13 @@
 {
-    "type": "postgres",
-    "host": "localhost",
-    "port": 5432,
-    "username": "desafionode",
-    "password": "desafionode",
-    "database": "desafionode",
-        "entities": [
-        "./src/model/*.js"
-        ], 
-        "migrations": [
-        "./src/database/migrations/*.js"
-        ],
-        "cli": {
-        "migrationsDir": "./src/database/migrations.js"
-        }
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "desafionode",
+  "password": "desafionode",
+  "database": "desafionode",
+  "entities": ["./src/model/*.ts"],
+  "migrations": ["./src/database/migrations/*.ts"],
+  "cli": {
+    "migrationsDir": "./src/database/migrations.ts"
+  }
 }
