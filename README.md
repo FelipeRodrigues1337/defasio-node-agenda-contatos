@@ -15,9 +15,6 @@ Este projeto em Nodejs foi criado juntamente a um sistema web em Reactjs com o o
 - Este projeto utilizou gerenciador de pacotes yarn v1.22.5
 
 **Rodar projeto**
-- instalar dependências: yarn
-
-- rodar projeto: yarn dev:server
-
-
-
+- instalar dependências: yarn 📚
+- Rodar migrations: typeorm migration run 🏃
+- Rodar projeto: yarn dev:server 🔥
