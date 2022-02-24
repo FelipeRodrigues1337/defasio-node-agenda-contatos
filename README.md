@@ -1,4 +1,4 @@
-# desafio Agenda de contatos em nodejs
+# Desafio Agenda de contatos em Nodejs
 
 Este projeto em Nodejs foi criado juntamente a um sistema web em Reactjs com o objetivo de manipular uma agenda de contatos.
 
